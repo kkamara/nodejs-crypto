@@ -1,4 +1,4 @@
-# nodejs-crypto [![Run CI](https://github.com/kkamara/node-react-boilerplate/actions/workflows/node.js.yml/badge.svg)](https://github.com/kkamara/node-react-boilerplate/actions/workflows/node.js.yml)
+# nodejs-crypto [![Run CI](https://github.com/kkamara/nodejs-crypto/actions/workflows/node.js.yml/badge.svg)](https://github.com/kkamara/nodejs-crypto/actions/workflows/node.js.yml)
 
 Hash, Encrypt and Decrypt with Node.js Crypto module.
 
